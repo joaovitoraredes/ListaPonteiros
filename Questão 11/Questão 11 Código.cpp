@@ -13,7 +13,7 @@ int main()
     printf("%f", aloha);
     coisas[4][4] = aloha[3];
 //    coisas[5] = aloha;
-    pf = value;
+//    pf = value;
     pf = aloha;
 
 }
